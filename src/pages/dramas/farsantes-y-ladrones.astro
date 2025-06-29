@@ -1,7 +1,6 @@
 ---
-
+import MiDramaMarkdown from '../../content/farsantes-y-ladrones.md';
 ---
-
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
@@ -11,8 +10,23 @@
 		<title>Dramas Fading Suns</title>
 	</head>
 	<body>
-    <ul>
-      <li><a href="/dramas/farsantes-y-ladrones">Farsantes y Ladrones</a></li>
-    </ul>
+    <main>
+      <MiDramaMarkdown />
+    </main>
 	</body>
 </html>
+
+<style>
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  main h1 {
+    color: #333;
+  }
+  main p {
+    line-height: 1.6;
+  }
+</style>
