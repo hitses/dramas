@@ -80,13 +80,13 @@ Ruthwyck tiene una población mixta de 3/5 de campesinos Vuldrok primitivos y 2/
 
 Aunque el clima es templado y agradable la mayor parte del año, el suelo aquí no puede soportar la agricultura comercial. Sin embargo, el Bosque de Jotun y el Mar Elfdrid prometen suficientes rendimientos estacionales como para que los intereses comerciales se sientan atraídos por el lugar. Además de la lonja de los Aurigas, Ruthwyck cuenta con un banco de Reeves y una oficina de topografía del Gremio de Prospectores, y los cimientos de un hotel en el que se ha detenido la obra (el contratista se quedó sin dinero el año pasado). Ruthwyck tiene la atmósfera de un pueblo fronterizo en auge que corre el riesgo de colapsar al primer signo de una recesión que haga estallar la burbuja.
 
-### CAMPO DE ATERRIZAJE
+### Espaciopuerto
 
 Además de cualquier nave en la que llegue la compañía (probablemente una aeronave comercial que transporta mercancías desde Elfhome, o su propia nave estelar), hay otra nave estacionada aquí, una escolta de aterrizaje destartalada pintada con motivos de fuego y cruces de puertas de salto. Un par de fanáticos avestitas, con aspecto relajado y charlando alegremente, patrullan los terrenos del cañonero. Si la compañía se acerca, los avestitas les apuntan con lanzallamas y les ordenan que se vayan; se dispararán tiros de advertencia a menos que obedezcan. Nadie en Ruthwyck soñaría con desafiar a los agitadores.
 
 Además, dos naves estelares de clase escolta Killroy están estacionadas dentro del almacén-hangar, equipadas para patrullaje sigiloso y cada una con aproximadamente la mitad de potencia que la escolta inquisitorial pesada. En una lucha igualada, la escolta probablemente sobreviviría a los ataques de la nave más pequeña el tiempo suficiente para destruir una nave enemiga, momento en el que el equilibrio se inclinaría fuertemente a favor de la escolta.
 
-### CATEDRAL DE SAN HOMBOR
+### Catedral de San Hombor
 
 La catedral sufre una escasez crónica de personal, aunque los piadosos lugareños (incluidos algunos conversos Vuldrok) ayudan lo mejor que pueden. Al acercarse a la catedral, la compañía es recibida por acólitos legos —divididos entre nativos de aspecto rudo y barbudo con vestimenta civil del Mundo Conocido y nativos más amables y verdaderos del Mundo Conocido, más a gusto con esa vestimenta— que los escoltan hasta Matre Orisha, la obispa en funciones de Ruthwyck. Se les pide que esperen mientras Orisha atiende a un paciente en su oficina. Pronto, un hombre mayor, de hombros anchos, con porte militar, pero con aspecto curtido y olor a sueño pesado y alcohol, sale de la oficina. Detrás de él, una mujer de piel morena con túnicas blancas y un chal. "¡Debes dejar la bebida, Maurice, o te espera una tumba temprana!", advierte ella. "Sí, señora", responde Maurice y, a espaldas de Orisha, le guiña un ojo conspiradoramente a la compañía. "Ni una gota más, señora, ¡lo juro!". Luego sale por la puerta (dirigiéndose a la taberna de los Aurigas).
 
@@ -112,7 +112,7 @@ El Padre Benedict fue asesinado en una noche de tormenta, los vientos ahogando s
 
 "Y ahí lo tienen, los únicos sospechosos en los que puedo pensar. Rezo para que los Empíreos guíen su trabajo a una pronta conclusión. Yo y todos los fieles de Ruthwyck estamos a su disposición, y hemos preparado una cabaña para su comodidad, en caso de que deseen alojarse aquí en nuestra tierra sagrada."
 
-### LA CABAÑA DE LA COMPAÑÍA
+### La cabaña de la compañía
 
 A menos que hagan otros arreglos, la compañía se aloja en la antigua clínica-hogar de Orisha, una acogedora cabaña con 10 estrechas camas distribuidas en pequeñas habitaciones y rincones de entresuelo.
 
@@ -143,13 +143,14 @@ Impulsos: calificación: 10 | número: 1
 Equipo: Túnicas, cruz de puerta de salto, cartera con diario y pluma.
 
 ## Escena 2: Investigaciones en la Catedral
+
 Qué: La compañía registra la escena del crimen y los terrenos de la catedral en busca de pistas.
 
 Quién: N/A
 
 Dónde: La catedral, la oficina del obispo y la morada del Diácono Soong.
 
-### EL CUERPO DE BENEDICTO
+### El cuerpo de Benedicto
 
 Aunque Benedict fue enterrado la semana pasada, Orisha —una sanadora de considerable experiencia anatómica y patológica— realizó una autopsia exhaustiva de su cadáver. Si se le pregunta sobre el cadáver, ella revela:
 
@@ -157,7 +158,8 @@ Aunque Benedict fue enterrado la semana pasada, Orisha —una sanadora de consid
 
 - Fue encontrado en su ropa de dormir, con las manos atadas a la espalda. Su boca había sido amordazada previamente, pero la mordaza había sido retirada de la escena. Nada parece haber sido robado.
 
-### CATEDRAL
+### Catedral
+
 Las preguntas sobre la escena del crimen revelan:
 
 - El cuerpo de Benedict fue encontrado cerca del altar. Había algo de sangre en el suelo (ya lavada) y varias huellas de barro (fotografiadas antes de lavar; las huellas se asemejan a botas resistentes sin características identificables). Se descubrió un clip de vendaje, como los que se encuentran en los botiquines médicos comunes, cerca.
@@ -176,7 +178,7 @@ Las preguntas de seguimiento revelan que Orisha y su personal han sido llamados 
 
 En realidad, el clip incriminatorio pertenecía a los vendajes de Barabbash, ocultando su mano cibernética. El capitán pirata dejó caer el clip mientras desenvolvía su prótesis para agarrar a Benedict por la garganta en un esfuerzo por evitar que el obispo gritara durante los interrogatorios sin mordaza. Desafortunadamente, Barabbash accidentalmente aplastó la tráquea de Benedict con esta poderosa mano mecánica.
 
-### OFICINA DE BENEDICTO
+### Oficina de Benedicto
 
 La búsqueda en la oficina de Benedict (ahora de Orisha) revela un par de pistas (pistas falsas).
 
@@ -186,7 +188,7 @@ La búsqueda en la oficina de Benedict (ahora de Orisha) revela un par de pistas
 
 - Notas sobre cómo convertir a los paganos Vuldrok, en particular a Embla Trollkin. Benedict argumenta, para sí mismo, que la adoración de una madre universal por parte de los nativos tiene similitudes con la veneración del Pancreador en la Fe Universal. Sugiere que muchos dioses paganos podrían ser simplemente ángeles Empíreos confundidos con deidades, y concluye: "¡Convence a la bruja para que se convierta y todo su panteón confuso se deshará en una epifanía de Gracia Empírea!"
 
-### LA CASA DE SOONG
+### La casa de Soong
 
 Una pequeña cabaña limpia, con un armario bien organizado y una mesa de dibujo ordenada.
 
@@ -206,7 +208,7 @@ Quién: Capitán Uwe Rand, Ingeniero Jefe C.L.I.V., Rupert Cartashe (tendero), M
 
 Dónde: El almacén-hangar del Gremio de los Aurigas. Esta es fácilmente la estructura más visible de Ruthwyck. Un llamativo letrero de neón anuncia "Taller, Tienda General y Taberna — ¡abierto todo el día, todos los días!".
 
-### INSPECCIÓN DEL CAPITÁN DE PUERTO
+### Inspección del capitán de puerto
 
 Al acercarse a la Lonja, la compañía divisa a una figura con un traje de vuelo husmeando alrededor de la nave en la que llegaron. Pinchando y señalando el vehículo, haciendo preguntas serias a cualquier PNJ de la tripulación, el inspector pronto dirige su atención a la compañía.
 
@@ -218,7 +220,7 @@ Los personajes jugadores Aurigas podrían sacrificarse por el equipo aquí, ofre
 
 Si Rand sospecha que la compañía está usando jumpkeys piratas o tiene conexiones con piratas, confisca su nave y la somete, junto con la compañía, a una investigación exhaustiva, que durará días.
 
-### GARAJE DE NAVES ESPACIALES
+### Garaje de naves espaciales
 
 Este cavernoso salón es un taller del Gremio de Ingenieros bajo jurisdicción de los Aurigas, que da servicio a naves visitantes y otros aparatos de alta tecnología presentes en Ruthwyck. El taller está bien surtido y puede dar servicio a la mayoría de los aparatos TL4-7, además de tecnología de naves estelares TL8.
 
@@ -234,7 +236,7 @@ Los personajes jugadores curiosos podrían notar lo siguiente, basándose en cie
 
 - Hablando de trabajo: Si se discute sobre alta tecnología con los entusiastas técnicos, una maniobra exitosa de amistad o engaño (se requiere una capacidad de TL6+) hace que uno de ellos se equivope y mencione haber mantenido recientemente un traje borroso, ¡una maravillosa pieza de equipo de camuflaje que otorga a los usuarios casi invisibilidad! Al darse cuenta de su error, el Ingeniero se calla mientras sus colegas fruncen el ceño con desaprobación.
 
-### TIENDA GENERAL
+### Tienda general
 
 La tienda de Rupert Cartashe es limpia y bien iluminada, parecida a una tienda de conveniencia del siglo XXI. Sus estantes rebosan de productos enlatados bien etiquetados, herramientas básicas, cuerdas, rollos de tela, calzado (un Auriga se dedica a la zapatería en su tiempo libre), una amplia gama de bebidas alcohólicas y dulces, botiquines médicos, docenas de revólveres ligeros (MacCauly Learmat .32) y medianos (MacCauly Loadrite .38) y rifles de caza básicos, y grandes cantidades de munición correspondiente.
 
@@ -250,7 +252,7 @@ Rupert está ansioso por vender sus productos y regalará una hebilla de cintur�
 
 - Cuando se le confronta con el micrófono, Rupert finge ignorancia. "Lo obtuve de un noble Li Halan en Leagueheim mediante trueque."
 
-### TABERNA
+### Taberna
 
 "The Second Home" es un establecimiento de aspecto agradable, un glamuroso salón de lujosos rojos, negros y dorados. Sin embargo, todo es un truco de decoración barata y diseño inteligente, pero aquí, en el límite de la civilización, esta taberna grita estilo.
 
@@ -262,11 +264,11 @@ Otro cliente frecuente es Maurice (el tipo que la compañía conoció al salir d
 
 Dos veces recientemente, Maurice ha visto un fantasma por la ciudad, una silueta similar a un espejismo acechando. Sin embargo, nadie se toma en serio al borracho.
 
-#### INFORMACIÓN SECRETA
+#### Información secreta
 
 El "fantasma" es un agente de Killroy en un traje difuminador.
 
-### RESPUESTAS GREMIALES
+### Respuestas gremiales
 
 Los Aurigas se presentan como emprendedores fronterizos que buscan ganar dinero con el comercio local. Otros miembros de gremios, incluso si sospechan lo contrario, respaldan esta historia; todos ellos dependen de la buena voluntad de los Aurigas.
 
@@ -280,13 +282,13 @@ Sin embargo, en confianza, un compañero de gremio podría chismorrear, comparti
 
 ### DRAMATIS PERSONAE
 
-#### CAPITÁN (CONTRAMAESTRE) UWE RAND
+#### Capitán (Contramaestre) Uwe Rand
 
 Agente • Mercader 4 • Aurigas • Comerciante
 
 Descripción: Delgado, de piel pálida y rostro alargado, con rizos rubios y perilla. Amigable, pero reservado. Debido al uso infrecuente de drogas de longevidad, Rand, de 50 años, no aparenta más de 35. Viste un traje de vuelo gris con muchos bolsillos, adornado con el emblema de los Aurigas, una corbata amarilla y una capa azul con adornos dorados.
 
-![CAPITÁN (CONTRAMAESTRE) UWE RAND](/Farsantes_y_Ladrones_CAPTAIN_(BOATSWAIN)_UWE_RAND.png)
+![CAPITÁN (CONTRAMAESTRE) UWE RAND](</Farsantes_y_Ladrones_CAPTAIN_(BOATSWAIN)_UWE_RAND.png>)
 
 Secreto: El agente Killroy de mayor rango.
 
@@ -316,7 +318,7 @@ Impulsos: calificación: 11 | número: 2
 
 Equipo: Pistola láser, escudo electrónico de duelo (oculto como un botón del traje de vuelo), pin susurrador encriptado, 50 firebirds.
 
-#### AURIGAS DE RUTHWYCK
+#### Aurigas de Ruthwyck
 
 Extras
 
@@ -341,7 +343,7 @@ Vitalidad: 10
 
 Equipo: Mono de cuero, pistola láser, pin susurrador encriptado, algunos firebirds.
 
-#### TÉCNICOS DE RUTHWYCK
+#### Técnicos de Ruthwyck
 
 Extras
 
@@ -354,7 +356,7 @@ Arreglar con maña* 12 | El objeto roto funciona durante una escena.
 Mejorar* 12 | Mejora la calidad del objeto un grado.
 Golpe de llave 9 | 3 de daño
 
-* La tirada es favorable para C.L.I.V. debido a sus muchas mejoras relacionadas con el trabajo.
+- La tirada es favorable para C.L.I.V. debido a sus muchas mejoras relacionadas con el trabajo.
 
 Resistencia: Cuerpo 0 | Mente 2 | Espíritu 0
 
@@ -363,6 +365,7 @@ Vitalidad: 10
 Equipo: Kits de herramientas TL3-8, altavoz, algunos firebirds.
 
 #### MAGDALENA SOH
+
 Extra
 
 Descripción: Una mujer pequeña de unos 40 años, con piel amarillenta pálida, ojos negros y cabello negro largo. De rostro severo pero amigable, Magdalena usa vestidos fluidos con estampado floral y un colgante con el emblema de los Scravers de nácar alrededor del cuello. Su mano derecha está vendada por un corte reciente con un vaso roto.
@@ -379,7 +382,7 @@ Vitalidad: 10
 
 Equipo: Bastón de frape, cinturón con escudo electrónico debajo de su vestido, 100 firebirds.
 
-#### MAURICE VRAGOLEÓN
+#### Maurice Vragoleón
 
 Extra
 
@@ -458,6 +461,7 @@ Resistencia: Cuerpo 1 | Mente 0 | Espíritu 0
 Equipo: Armadura acolchada, bastón, arco (10 flechas)
 
 ## Escena 6: La Bruja de Jotunwood
+
 Qué: Té y conversaciones con una sacerdotisa pagana.
 
 Quién: Embla Trollkin.
@@ -492,13 +496,13 @@ Embla se somete pacientemente al interrogatorio. Sinceramente quiere ayudar y no
 
 ### DRAMATIS PERSONAE
 
-EMBLA TROLLKIN (AGENTE)
+Embla Trollkin (agente)
 
 Agente • Sacerdote 3 • Vuldrok • Guardiana de Sueños
 
 Descripción: De piel marfil y ojos negros, con una exuberante cabellera color avellana y una figura voluptuosa. De actitud intrépida y extrovertida. Embla viste una media armadura de plasteel adornada con runas Vuldrok, sobre vestidos descoloridos pasados de moda desde hace siglos (que vinieron con la Casa de la Bruja), y descalza. A sus 27 años, es una doncella despreocupada con el alma de una anciana sabia.
 
-![EMBLA TROLLKIN](/Farsantes_y_Ladrones_EMBLA_TROLLKIN_(AGENT).png)
+![EMBLA TROLLKIN](</Farsantes_y_Ladrones_EMBLA_TROLLKIN_(AGENT).png>)
 
 Secreto: Romance ilícito con el diácono Soong.
 
@@ -583,6 +587,7 @@ Si la compañía se ha familiarizado con los Avestites (o más bien, con las ide
 Los rasgos de Vindex, el Hermano Castites y los Avestites se pueden encontrar en la Escena 12: La Batalla de Villa Celestia.
 
 ## Escena 9: Amante Perdido Encontrado
+
 Qué: Se revela la verdad sobre el diácono Soong.
 
 Quién: Hermano Soong, Embla Trollkin.
@@ -604,6 +609,7 @@ Embla explica su relación secreta con Soong, cómo surgió y floreció durante 
 Embla cree que la figurilla representa a Ultasht —la diosa Vuldrok del amor—, que era la favorita de Soong. En su amor por Embla, Soong está perdiendo la fe en la Iglesia Universal, siguiendo su corazón hacia el paganismo.
 
 ### El Relato de Soong
+
 A menos que el grupo de aventureros lo descubra por su cuenta, Soong finalmente despierta, con la mente clara y descansado, y cuenta su historia.
 
 Soong relata cómo, en aquella noche de tormenta, descubrió luces parpadeando dentro de la catedral, cómo observó a través de una ventana mientras los Avestites interrogaban al Padre Benedict, y cómo el Gran Inquisidor estranguló personalmente al obispo hasta la muerte frente al altar con una mano mecánica de hierro negro.
@@ -614,7 +620,7 @@ Embla le receta más descanso a Soong y le da un té que le provoca un sueño pr
 
 ### DRAMATIS PERSONAE
 
-HERMANO SOONG, DIÁCONO
+Hermano Soong, diácono
 
 Descripción: Hombre de 23 años. Piel de tono amarillo cálido, con cabello negro cortado a tazón y bigote. Es bajo, pero fuerte por el trabajo manual. Cuando no lleva su hábito de laico, Soong viste resistentes overoles de mezclilla y un delantal de cuero manchado por la jardinería y la escultura en madera (que incluye pintura). Su pulgar izquierdo está vendado debido a un reciente accidente mientras tallaba madera.
 
@@ -658,7 +664,7 @@ Dónde: Entre las ruinas humeantes de Ruthwyck.
 
 Con la Batalla de Ruthwyck terminada y las celebraciones en marcha, la compañía es abordada por el Charioteer de mayor rango superviviente. Ella pregunta por su estado de salud antes de hacerles una oferta.
 
-"Para proteger a mis agentes, no puedo revelar nuestra identidad. Basta decir que trabajamos para proteger el comercio y la civilización, y los piratas ocupan un lugar muy alto en nuestra lista negra. Estos piratas en particular, el Colectivo Melena Sangrienta, también son secuestradores y traficantes de esclavos, raptando a gente decente —incluso miembros del gremio y nobles— y poniéndolos a trabajar en su guarida estelar.
+"Para proteger a mis agentes, no puedo revelar nuestra identidad. Basta decir que trabajamos para proteger el comercio y la civilización, y los piratas ocupan un lugar muy alto en nuestra lista negra. Estos piratas en particular, el Colectivo Melenasangrienta, también son secuestradores y traficantes de esclavos, raptando a gente decente —incluso miembros de gremios y nobles— y poniéndolos a trabajar en su guarida estelar.
 
 "Han demostrado ser invaluables contra ellos aquí en Ruthwyck, y hemos escuchado sus nombres mencionados favorablemente en otros aspectos también. Espero que acepten unir fuerzas para destruir al Colectivo Melena Sangrienta.
 
@@ -814,7 +820,8 @@ Si Barabbash resulta gravemente herido o sus piratas sufren grandes bajas, pedir
 
 ### DRAMATIS PERSONAE
 
-SULTÁN BARABBASH BLOODMANE, ALIAS "GRAN INQUISIDOR VINDEX"
+Sultán Barabbash Melenadorada, alias "Gran Inquisidor Vindex"
+
 Titular • Noble 6 • Colectivo Melena Sangrienta (ex-al-Malik) • Pirata/Señor
 
 Descripción: Piel y ojos negros, su barba y cabello, habitualmente teñidos de rojo con henna, están actualmente afeitados para ajustarse al disfraz de Vindex. Un hombre alto y corpulento de unos 60 años, Barabbash impone una figura poderosa a pesar de su edad. Viste un mono de seda sintética de color verde oscuro, con el logo del equipo de kabaddi "Green Krakens 3821" de Acheon grabado en la espalda, bajo pesadas túnicas escarlata de Inquisidor.
@@ -888,7 +895,8 @@ Equipo: Traje de seda sintética, escudo electrónico, túnicas ignífugas Avest
 
 ![Barabbash](/public/sultan_barabbash.png)
 
-ABUDJINN AL-MALIK, ALIAS “HERMANO CASTITES”
+Abudjinn al-Malik, alias “Hermano Castites”
+
 Agente • Peón 5 • Colectivo Melena Sangrienta • Pirata
 
 Descripción: Abudjinn es un hombre alto y delgado de tez aceitunada, con ojos oscuros que brillan extrañamente con una luz verdosa amarillenta. Abudjinn luce una sonrisa astuta y se ríe con facilidad de la desgracia ajena. Viste túnicas Avestite sobre un mono de seda sintética idéntico al de Barabbash y lleva varias pistolas y un estoque con guardamano de cesta. Un letrero lacado, que reza sileo (latín eclesiástico para "Soy silencioso") en letras doradas, cuelga alrededor de su cuello.

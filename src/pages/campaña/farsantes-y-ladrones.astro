@@ -3,6 +3,11 @@ import "../global.css";
 import CampaignHeader from "../../components/campaign-header.astro";
 import Exposition from "../../components/farsantes-y-ladrones/exposition.astro";
 import Sidebar from "../../components/farsantes-y-ladrones/sidebar.astro";
+import Act1 from "../../components/farsantes-y-ladrones/act-1.astro";
+import DramatisPersonae from "../../components/farsantes-y-ladrones/dramatis-personae.astro";
+import Act2 from "../../components/farsantes-y-ladrones/act-2.astro";
+import Act3 from "../../components/farsantes-y-ladrones/act-3.astro";
+import Consequencies from "../../components/farsantes-y-ladrones/consequencies.astro";
 ---
 
 <html lang="es">
@@ -18,8 +23,18 @@ import Sidebar from "../../components/farsantes-y-ladrones/sidebar.astro";
     <div class="pl-80">
       <CampaignHeader title="Farsantes y Ladrones" game="Fading Suns" />
 
-      <main class="relative p-5 flex gap-5">
+      <main class="relative p-5">
         <Exposition />
+
+        <Act1 />
+
+        <Act2 />
+
+        <Act3 />
+
+        <Consequencies />
+
+        <DramatisPersonae />
       </main>
     </div>
   </body>
