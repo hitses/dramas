@@ -1,7 +1,3 @@
----
-meta: utf-8
----
-
 # Exposición
 
 La piratería espacial, ¡una plaga en la sociedad interestelar! ¡Un azote casi imposible de erradicar! La línea entre piratas, corsarios, aventureros oportunistas y capitanes espaciales que confiscan recursos para sí mismos es borrosa. Sin embargo, lo común a todos ellos es su depredación sobre el transporte de carga, la infraestructura y el comercio, y su saqueo voluntario de depósitos espaciales, instalaciones científicas y asentamientos astrograficos.
@@ -537,3 +533,483 @@ Vitalidad: 24
 Impulsos: calificación: 10 | número: 1
 
 Equipo: Media armadura de plasteel, daga, Evangelio Omega desgastado con anotaciones Vuldrok (es decir, "correcciones")
+
+# Acto 2: Respuestas
+
+La compañía se ha metido en Ruthwyck, atrayendo la atención de todos. Varios grupos responden ahora a su presencia.
+
+## Escena 7: ¡Saqueado!
+
+Qué: Al regresar a casa, la compañía encuentra su vivienda saqueada.
+
+Quién: Un "fantasma".
+
+Dónde: La casa parroquial que les prestó Orisha.
+
+Poco antes de que la compañía regrese, un agente Killroy con un traje que lo hace borroso registra su casa en busca de llaves de salto ("jumpkeys") deshonestas y evidencia de actividades anti-Charioteer.
+
+Si la compañía posee una nave estelar, los "fantasmas" de Killroy también la han saqueado, obteniendo acceso usando códigos de anulación ultrasecretos implantados profundamente en los sistemas de la nave durante las visitas rutinarias de atraque de los Charioteers en el pasado de la nave. Esta es una de varias prácticas cuestionables que los Killroys usan para hacer cumplir su mandato, e incluso los compañeros Charioteers rara vez lo saben. Sin embargo, los Killroys no han registrado la nave inquisitorial, que está demasiado fuertemente custodiada.
+
+La compañía encuentra su morada patas arriba: cada cajón vacío, los muebles movidos y las almohadas rajadas. Las unidades de las máquinas han sido copiadas (como revelará cualquier diagnóstico). Los PNJ (personajes no jugadores) dejados en el lugar han sido aturdidos, atados y amordazados. No falta nada, a menos que la compañía guardara llaves de salto ilícitas, en cuyo caso cada objeto de valor de bolsillo ha sido robado (para ocultar lo que el agente buscaba).
+
+Una tirada de "spot roll" (Resistencia Hercúlea) permite que un personaje note momentáneamente una figura fantasmal, transparente y como un espejismo, mezclándose en las sombras. Exceder la Resistencia por 4 o más Puntos de Victoria (PV) permite vislumbrar al "fantasma" moviéndose hacia el sur (hacia el Barter Hall) antes de que desaparezca entre los edificios. La persecución es imposible, pero el rastreo podría producir huellas de botas (idénticas a las que se venden en la Tienda General) que conducen hacia el Barter Hall.
+
+### Traje Borroso (Blur Suit)
+
+TL7 • Coste: 500+ fb • Compulsión tecnológica: Adquisitivo
+
+Efecto: Las tiradas de camuflaje y sigilo son favorables; +6 Resistencia contra las tiradas de detección cuando no se mueve.
+
+Un traje borroso es una pieza de tecnología de sigilo de la Segunda República que todavía está en uso entre ciertos grupos clandestinos. Manipuladores de campo avanzados incrustados en la prenda curvan la luz alrededor del traje. Cuando se activa, el usuario se vuelve borroso y difícil de ver, lo que hace que las tiradas de camuflaje y sigilo sean favorables. Además, añade +6 a la Resistencia en las tiradas de detección para ver al usuario cuando no se está moviendo.
+
+La batería interna del traje dura una hora, tras lo cual debe recargarse durante una hora conectándose a una fuente de energía. Los trajes de menor calidad duran menos tiempo.
+
+## Escena 8: Un Linchamiento
+
+Qué: Inquisidores falsos capturan a un hereje al azar y organizan un linchamiento de espectáculo.
+
+Quién: Gran Inquisidor Vindex, Hermano Castites, Avestites (piratas), Maurice Vragoleon.
+
+Dónde: El hangar-almacén del Gremio de Charioteers.
+
+Justo cuando las tensiones comienzan a aumentar, la compañía es interrumpida por un alboroto en los campos de aterrizaje. Allí, el Inquisidor Vindex, el Hermano Castites y seis Avestites han erigido una pira sobre una pila de leña a la que están atando a un Maurice completamente ebrio. Un Avestite solitario custodia su nave, pero dentro hay cinco piratas adicionales sin disfraz. Estos son los inquisidores falsos actuando para disuadir la intromisión en sus asuntos de búsqueda de tesoros.
+
+Vindex ignora las objeciones y se niega a nombrar las herejías de Maurice: "Sus crímenes son muchos y clasificados". Pero los piratas han subestimado la popularidad de Maurice, ya que los miembros del gremio y los Vuldrok protestan ruidosamente. Sorprendentemente, el Gran Inquisidor Vindex cede pronto y deja ir a Maurice con una advertencia. Los piratas —esperando desalentar el escrutinio, no provocarlo— han dejado claro su punto.
+
+Si la compañía se ha familiarizado con los Avestites (o más bien, con las identidades encubiertas de los piratas), ahora notan, mientras los piromanos que ceden se marchan, que el Hermano Castites —quien supuestamente ha hecho un voto de silencio— le susurra algo al oído a Vindex, haciendo que ambos hombres se rían.
+
+### DRAMATIS PERSONAE
+
+Los rasgos de Vindex, el Hermano Castites y los Avestites se pueden encontrar en la Escena 12: La Batalla de Villa Celestia.
+
+## Escena 9: Amante Perdido Encontrado
+Qué: Se revela la verdad sobre el diácono Soong.
+
+Quién: Hermano Soong, Embla Trollkin.
+
+Dónde: La Casa de la Bruja.
+
+A medida que el linchamiento se calma, la compañía nota a una jinete —una esbelta chica Vuldrok con un rifle de caza a la espalda— galopando desde Jotunwood hacia la Catedral de San Hombor.
+
+Investigando, descubren que la chica (Asta) es una mensajera de la Casa de la Bruja. "Por orden de Embla, hemos buscado a su clérigo desaparecido desde la noche en que desapareció. Acabamos de encontrarlo, deambulando medio muerto y loco en los confines más profundos de Jotunwood. Embla lo está cuidando ahora. Ella les pide que vayan a verlo de inmediato... ¡y en silencio!".
+
+Dado que Asta se niega a dar más detalles, Orisha sugiere que la compañía regrese a la Casa de la Bruja mientras ella mantiene las apariencias en Ruthwyck.
+
+Es otra caminata de dos horas de regreso a través de Jotunwood, y la chica galopa por delante para avisar a Embla de su llegada.
+
+En la Casa de la Bruja, la compañía encuentra a Soong delirante y llorando. Entre oraciones por el perdón del Pancreador, divaga sobre la protección de su amada. Soong está agarrando una figurilla de madera semiterminada pero hermosa de una mujer Vuldrok desnuda con el parecido de Embla Trollkin. Soong no puede ser entrevistado en este estado. Embla le canta hasta que se duerme, prometiendo sincerarse con la compañía.
+
+Embla explica su relación secreta con Soong, cómo surgió y floreció durante las visitas de los sacerdotes. Finalmente, Soong se escapó para visitarla a solas. "Estamos muy enamorados", admite Embla. "Vergonzosamente, como adolescentes en celo, y estoy embarazada de ocho semanas del hijo de Soong".
+
+Embla cree que la figurilla representa a Ultasht —la diosa Vuldrok del amor—, que era la favorita de Soong. En su amor por Embla, Soong está perdiendo la fe en la Iglesia Universal, siguiendo su corazón hacia el paganismo.
+
+### El Relato de Soong
+A menos que el grupo de aventureros lo descubra por su cuenta, Soong finalmente despierta, con la mente clara y descansado, y cuenta su historia.
+
+Soong relata cómo, en aquella noche de tormenta, descubrió luces parpadeando dentro de la catedral, cómo observó a través de una ventana mientras los Avestites interrogaban al Padre Benedict, y cómo el Gran Inquisidor estranguló personalmente al obispo hasta la muerte frente al altar con una mano mecánica de hierro negro.
+
+Preso del pánico y temiendo por su amada pagana, Soong regresó corriendo a su taller, agarró la figurilla de Ultasht inacabada y huyó a Jotunwood. Intentó llegar a la Casa de la Bruja, manteniéndose fuera del camino, pero se perdió y ha vagado por el antiguo bosque desde entonces.
+
+Embla le receta más descanso a Soong y le da un té que le provoca un sueño profundo. Luego le pide ayuda al grupo: "Claramente, no se puede permitir que los sacerdotes de túnica roja operen con impunidad. Deben lidiar con ellos; si lo intentara yo, habría una guerra santa, con fanáticos en ambos lados. Ruthwyck ardería, y Jotunwood también. Me quedaré aquí para cuidar a Soong; es un testigo importante. Asta irá con ustedes, en caso de que necesiten enviarme un mensajero a caballo. Que los dioses que existan nos protejan a todos".
+
+### DRAMATIS PERSONAE
+
+HERMANO SOONG, DIÁCONO
+
+Descripción: Hombre de 23 años. Piel de tono amarillo cálido, con cabello negro cortado a tazón y bigote. Es bajo, pero fuerte por el trabajo manual. Cuando no lleva su hábito de laico, Soong viste resistentes overoles de mezclilla y un delantal de cuero manchado por la jardinería y la escultura en madera (que incluye pintura). Su pulgar izquierdo está vendado debido a un reciente accidente mientras tallaba madera.
+
+Rasgos: Soong permanece mayormente fuera de escena durante el drama. No se necesitan rasgos.
+
+## Escena 10: El Saqueo de Ruthwyck
+
+Qué: Los piratas reducen sus pérdidas y toman lo que pueden antes de dejar Ruthwyck en llamas.
+
+Quién: Piratas contra Killroys.
+
+Dónde: Ruthwyck; el Salón de Intercambio (Barter Hall).
+
+Poco antes de que Ruthwyck aparezca a la vista (preferiblemente de noche para un efecto visual), la compañía huele a humo en el viento. Asta se adelanta para investigar, regresando rápidamente para informar: "¡Ruthwyck está ardiendo!". Varios edificios, incluyendo el hotel inacabado, algunas casas de la ciudad, granjas periféricas y el Salón de Intercambio, están todos en llamas. Además, se libra una batalla alrededor del Salón de Intercambio, donde miembros del gremio armados con láser defienden el salón contra sacerdotes pirómanos.
+
+El Colectivo Melena Sangrienta, habiendo decidido que la situación de Ruthwyck es insostenible, han abandonado la búsqueda del tesoro de Hrothlac (por ahora) y han atacado Ruthwyck para destruir pruebas, evadir a los perseguidores y saquear la ciudad en su salida. Su objetivo principal es el Salón de Intercambio, que los piratas prenden fuego incluso mientras irrumpen dentro —llevando máscaras de respiración Avestite y túnicas ignífugas— intentando apoderarse de las naves del gremio para la flota pirata o, en su defecto, inutilizarlas para evitar perseguidores. Si la compañía tiene una nave estacionada en la ciudad, los piratas tendrán intenciones similares para esa embarcación.
+
+Los miembros del gremio contraatacan lo mejor que pueden. El asalto pirata a gran escala los tomó a todos por sorpresa, pero los miembros del gremio no entregarán sus patentes y medios de vida (y los secretos de Killroy) voluntariamente. Los piratas, sin embargo, buscan una ganancia rápida y es probable que se rindan en poco tiempo y se abran paso a tiros de regreso a su nave de combate Avestite robada. La propia nave de combate está tripulada por cinco piratas sin disfraz que rocían el área circundante (¿y la nave estelar de la compañía?) con cañones de fuego.
+
+El GM (Máster del Juego) debe manejar esto como un caótico desorden de batalla en medio de incendios que se extienden rápidamente y desesperación. Piratas a prueba de llamas disparan fuego por todas partes, mientras los defensores del gremio se atrincheran. La compañía tiene la oportunidad de inclinar la balanza, y si se meten en demasiados problemas, un agente Killroy podría disparar a un enemigo desde una ventana cercana con un rifle láser. Dejen que la compañía practique sus heroicismos, posiblemente ganando victorias importantes contra los atacantes (reduzcan el número de piratas en el Acto 3 en consecuencia), antes de que los piratas huyan con la promesa de una confrontación final en el Acto 3.
+
+### ¿Qué pasa si los piratas son aniquilados?
+
+La fuerza de los personajes jugadores, sus estrategias y las tiradas de dados afortunadas son imposibles de prever; es posible que nuestros héroes ganen la batalla y destruyan la amenaza pirata, privando así a todos de un clímax final lleno de acción.
+
+Pero no te preocupes. Deja que los jugadores disfruten de su triunfo... que el drama termine con su heroica victoria en Ruthwyck. Si pueden vencer a los piratas aquí, la compañía de seguro merecía ganar.
+
+Cuando tu grupo se reúna para la próxima partida, podrías ejecutar el tercer acto como un drama de seguimiento independiente, de un solo acto. Los Killroys, habiendo rastreado los movimientos del Colectivo Melena Sangrienta y descubierto su base oculta, le piden a la compañía que ayude a castigar a los piratas. Y recuerda, Barabbash puede aparecer en varios lugares a la vez porque "él" es en realidad hermanos (gemelos o trillizos) que desempeñan el mismo papel (consulta su descripción en la sección Dramatis Personae, a continuación). Así que, incluso si la compañía ya lo ha neutralizado, ¡todavía hay un Barabbash por ahí!
+
+# Acto 3: Confrontación Final
+
+Habiendo descubierto que los "Avestites" estaban detrás del asesinato del obispo Benedict y habiendo ayudado a los habitantes y gremios de Ruthwyck a defenderse del ataque incendiario de los pirómanos, la compañía se convierte en héroes celebrados. Pero el trabajo de los benefactores nunca termina y pronto se encuentran reclutados para una caza encubierta en el sistema Hargard.
+
+## Escena 11: Alianza Secreta
+
+Qué: La compañía une fuerzas con los Killroys para enfrentarse al Colectivo Melena Sangrienta.
+
+Quién: Capitana Uwe Rand (o su siguiente al mando superviviente).
+
+Dónde: Entre las ruinas humeantes de Ruthwyck.
+
+Con la Batalla de Ruthwyck terminada y las celebraciones en marcha, la compañía es abordada por el Charioteer de mayor rango superviviente. Ella pregunta por su estado de salud antes de hacerles una oferta.
+
+"Para proteger a mis agentes, no puedo revelar nuestra identidad. Basta decir que trabajamos para proteger el comercio y la civilización, y los piratas ocupan un lugar muy alto en nuestra lista negra. Estos piratas en particular, el Colectivo Melena Sangrienta, también son secuestradores y traficantes de esclavos, raptando a gente decente —incluso miembros del gremio y nobles— y poniéndolos a trabajar en su guarida estelar.
+
+"Han demostrado ser invaluables contra ellos aquí en Ruthwyck, y hemos escuchado sus nombres mencionados favorablemente en otros aspectos también. Espero que acepten unir fuerzas para destruir al Colectivo Melena Sangrienta.
+
+"Por temor a que los informantes de Melena Sangrienta les avisen, debemos actuar de forma encubierta y sin ningún apoyo oficial. Nosotros tenemos la inteligencia y las naves —incluyendo tres naves de batalla— para evitar que escapen, mientras que ustedes tienen el coraje y la habilidad para conquistar su base.
+
+"En cuanto a la recompensa, son libres de reclamar cualquier botín pirata que puedan como reparaciones, excepto la propiedad robada a la Liga. Además, nuestros enemigos tienen recompensas por sus cabezas: Barabbash, su líder, vale 5000 firebirds. Sus lugartenientes valen 1000 cada uno, y sus soldados rasos 100 por cabeza. Además, puedo garantizar la gratitud eterna del Gremio de Charioteers si nos ayudan, lo cual deberían reconocer como más valioso que cualquier recompensa financiera. Por supuesto, les prestaremos todo el equipo que podamos, también, incluyendo trajes espaciales blindados, escudos electrónicos, láseres y Elixires."
+
+Si la compañía no acepta, los Killroys les darán unas horas para pensarlo antes de buscar ayuda en otro lugar. Cazar a los piratas sin la ayuda inmediata de la compañía llevará mucho más tiempo; sería dramáticamente apropiado que la compañía sufriera problemas personales con los piratas mientras tanto.
+
+### El Plan
+
+Tras analizar los patrones de ataque y los vectores de las naves, los Killroys conocen la ubicación general de la Villa Celestia. El sitio se encuentra dentro de una familia de asteroides espaciales de Hargard conocida como el Cúmulo de Norn, situada entre los mundos exteriores de Aesir y Diyan Dine'e.
+
+Buscar en el Cúmulo de Norn alertaría sin duda a los piratas, así que en su lugar los Charioteers planean capturar una pequeña nave de exploración del Colectivo Melena Sangrienta que han descubierto anclada frecuentemente en un asteroide flotante. A la deriva cerca de las rutas espaciales comunes alrededor de Hargard, escuchando las comunicaciones de radio y escaneando pasivamente las naves que pasan, esta nave de exploración se utiliza para seleccionar los objetivos de los piratas. Usando sus escoltas sigilosas, los Charioteers se acercarán lo suficiente para sorprender a los exploradores, bloqueando sus radios y desembarcando a la compañía para que se abalancen y se apoderen de la nave.
+
+Utilizando la nave capturada, la compañía (asistida por un piloto Charioteer si es necesario) se infiltrará en la Villa Celestia para sabotear sus escudos y desorganizar sus defensas. Mientras tanto, las naves de los Charioteers enfrentarán a la flotilla de Melena Sangrienta para evitar su escape, y juntos ellos y la compañía acabarán con los piratas. "Es un plan arriesgado, pero con sigilo y una ejecución soberbia, deberíamos poder prevalecer."
+
+## Escena 12: Abordaje
+
+Qué: La compañía aborda una nave pirata en el espacio profundo.
+
+Quién: Piratas menores.
+
+Dónde: Un asteroide sin nombre en las profundidades del espacio.
+
+La nave de exploración objetivo es una pequeña nave exploradora de la Liga, modificada y construida para el transporte y la aventura más que para el combate. Los piratas la han equipado con mejores sensores, amortiguadores de silueta y un buen camuflaje visual a la antigua. Aunque puede ofrecer poca resistencia en batalla, podría advertir fácilmente a Villa Celestia si se la ataca abiertamente.
+
+El par de escoltas modificadas de los Killroy se acerca sigilosamente bajo la cobertura de su tecnología furtiva y deshabilita las comunicaciones y sensores de la nave pirata. A continuación, la compañía, usando el equipo prestado por los Charioteers, desciende flotando al asteroide y asalta a los piratas varados.
+
+Es un combate directo (para gravedad cero), pero los tres piratas luchan valientemente para restablecer las comunicaciones con su base principal. Sin embargo, una vez que nuestros héroes entran en su nave, los piratas se rinden rápidamente y piden la paz.
+
+"¡Piedad, por favor!", suplican. "No tuvimos más remedio que unirnos al Colectivo Melena Sangrienta. ¡Barabbash tiene a nuestras familias como rehenes!" Si la compañía jura proteger y liberar a sus seres queridos, los piratas vencidos ofrecen su apoyo e inteligencia total para derrocar a Barabbash y su tripulación. En este caso, se reduce la Resistencia en 4 para las siguientes acciones de la compañía en la próxima escena: disfrazarse de piratas, tiradas de Interfaz e Intrusión contra los sistemas del Colectivo, y tiradas de Picaresca e influencia contra el personal del Colectivo.
+
+Los exploradores son:
+
+Elliot Sargent (soldado de Hawkwood forzado a la servidumbre pirata junto con varios primos).
+
+Serkan Yilmaz (técnico de al-Malik cuya esposa espera en la corte de Barabbash).
+
+Wilma Franklin (mercernaria yeoman cuya esposa es enfermera en Villa Celestia).
+
+Una vez que la nave exploradora es capturada, los técnicos Killroy aseguran los datos de navegación y los códigos de autorización de las computadoras a bordo. "Tenemos todo lo que necesitamos para infiltrarnos en Villa Celestia", se jacta un técnico. "¡Los bastardos no sabrán qué les golpeó!".
+
+### Combate en Gravedad Cero
+
+En microgravedad no hay arriba ni abajo, ni resistencia del aire, presión o peso. Los personajes experimentan el estado físico Suspendido.
+
+Suspendido: Estás suspendido en el aire (o posiblemente en el vacío). Tus tiradas de acción física son desfavorables (a menos que tengas la habilidad de Operaciones a bordo, que incluye entrenamiento en gravedad cero). Las excepciones son los láseres y otras armas de Fuerza 0, que no provocan retroceso. Además, no puedes iniciar movimiento sin asideros, amarras, una mochila propulsora u otra ayuda similar.
+
+Ten en cuenta que en este drama, todos los piratas poseen la habilidad de Operaciones a bordo.
+
+## Escena 13: Batalla de Villa Celestia
+
+Qué: La compañía encabeza el asalto a la base asteroide.
+
+Quién: Barabbash, Abudjinn, piratas de Melena Sangrienta.
+
+Dónde: Villa Celestia.
+
+La compañía se acerca a Villa Celestia disfrazada de exploradores que regresan a casa. El asteroide es una roca irregular, de un negro hierro con profundos abismos y empinadas colinas, y la base está situada en un pequeño cráter de impacto. Cerca de la entrada del hangar hay enormes bloques de hielo, sujetos al suelo bajo redes de nailon. Recolectados de cometas que pasan, estos bloques de hielo constituyen un suministro de agua de emergencia para la base. Entre el asteroide negro y los débiles haces del sol distante, la superficie es realmente oscura, a excepción de unas pocas lámparas de aproximación y focos alrededor del hangar. Aquí también hace un frío intenso; la vida en el interior es posible gracias a los dos reactores de fusión en el núcleo de la base. En lo alto, la flotilla pirata de media docena de naves más pequeñas orbita.
+
+La nave de exploración robada es recibida por un controlador de vuelo con voz aburrida y la compañía debe abrirse paso con engaños. Al acercarse en una nave pirata robada, su tirada de engaño es favorable (además de la ventaja de Resistencia que podrían haber obtenido en la Escena 12).
+
+Una vez dentro, la compañía encuentra el hangar de Villa Celestia sin vigilancia, aunque hay dos técnicos trabajando en las reparaciones de la nave de combate Inquisitor (o similar), mientras un Vuldrok solitario está sentado en una esquina limpiando su arma. Todos están ocupados y la compañía debería tener poca dificultad para someterlos o pasar sigilosamente junto a ellos.
+
+### Descripción del Hangar
+
+Una gran caverna excavada en la roca y sellada con espuma amarilla. No hay equipo sin usar esparcido, y sorprendentemente pocas cajas vacías o pilas de cables, etc. La base está peligrosamente desabastecida y los materiales sobrantes y la basura se reciclan, reutilizan o guardan cuidadosamente en lugares seguros. Deja que la compañía se encuentre con un cofre pesado y con candado que no contiene más que un montón de pernos oxidados, clavos doblados, trozos de cable y varios rollos de cinta adhesiva fuerte.
+
+Hay cuatro naves estelares adicionales atracadas para reparaciones —la nave de combate de la Inquisición (si todavía está por ahí) y tres naves de clase asaltante— la mayoría con algo de tripulación y/o civiles. Todas las naves están sujetas al suelo, y la gravedad artificial local puede manipularse con un dial en la pared.
+
+![Hangar de Villa Celestia](/public/hangar.png)
+
+### Descripciones de los Pasillos
+
+Villa Celestia es una serie de instalaciones mineras reutilizadas, conectadas por túneles sellados con espuma y ocasionales pasillos más anchos. La base está muy escasamente iluminada, con, en el mejor de los casos, una bombilla cada 10 metros; los residentes llevan fuentes de luz personales y algunos usan gafas de baja luz. El espacio es limitado y los pasillos están repletos de taquillas personales, cofres y cajas. Largas y profundas sombras se proyectan por todas partes, lo que facilita esconderse (las tiradas de Sigilo son favorables). Navegar por la base sería difícil si no fuera por los antiguos mapas de orientación que cubren muchas paredes, actualizados con notas dibujadas a mano que muestran nuevos caminos de conexión y habitaciones renombradas. Los piratas merodeadores destruirán sistemáticamente los mapas una vez que suene la alarma para desorientar a los intrusos.
+
+La infiltración sigilosa y la inevitable batalla de Villa Celestia se manejan como episodios sueltos en lugar de un orden fijo de eventos. La compañía elige qué instalaciones y sistemas de la base atacar, posiblemente dividiéndose en varios equipos. Debes describir encuentros aleatorios y la atmósfera a lo largo del camino (piratas jugando a las cartas, un esclavo solitario lavando un pasillo, órdenes aleatorias ladradas por el intercomunicador, etc.).
+
+La base está en alerta baja hasta que suene la alarma, lo que probablemente no sucederá hasta que la compañía no logre someter a un enemigo combatiente o civil atacado lo suficientemente rápido como para evitar que griten. La seguridad no es alta ya que los prisioneros no tienen adónde ir, y la amenaza de la ira pirata es suficiente para mantener a todos a raya. (No hay cámaras de vigilancia ni nada similar). Afortunadamente, el Colectivo Melena Sangrienta es una banda grande y desorganizada con muchos partidarios externos y miembros de la familia que van y vienen, y la gente está acostumbrada a ver extraños aquí.
+
+Por lo tanto, la compañía solo enfrentará preguntas casuales (a menudo amistosas) si se les acercan: "Hola, guapo. No te había visto por la base antes. ¿Eres un nuevo recluta, cariño?".
+
+A continuación, se presentan resúmenes rápidos de varios sitios que la compañía puede atacar. Los piratas suelen ser asaltantes Vuldrok o corsarios del Mundo Conocido (50/50), mientras que los civiles pueden ser familiares de piratas, especialistas esclavizados o rehenes, todos los cuales tienen tareas que hacer. Cuando suena la alarma, los complementos de los piratas suelen duplicarse o reducirse a cero (dependiendo de la ubicación), mientras que los civiles a menudo permanecen en su lugar para esconderse. Los civiles solo lucharán si se les obliga.
+
+Hay aproximadamente 50 piratas en la base (menos los piratas perdidos en Ruthwyck anteriormente), de los cuales unos 10 abordan naves una vez que suena la alarma. Barabbash se encuentra en el Cuartel General, mientras que Abudjinn se mueve y puede ser encontrado en cualquier lugar; ninguno de los dos aborda naves en respuesta a la alarma. También hay 100 civiles aquí (incluyendo prisioneros y niños).
+
+Hangar
+1 pirata, 2 civiles (más a bordo de naves individuales). Contiene naves estelares en dique seco y poco más de interés. Para la descripción, ver arriba.
+
+Taller
+2 piratas, 5 civiles. Un lugar pequeño y concurrido donde se fabrican y reparan equipos y herramientas. Dos de los civiles son Ingenieros esclavizados. La sala está inusualmente bien iluminada y llena de cajas repletas de materiales reciclados, herramientas y suministros. Una única impresora 3D TL5 se encuentra en una esquina, con muy poco material de fabricación.
+
+Jardín Hidropónico
+3 piratas, 10 civiles. Aquí se cultivan hierbas y verduras en invernaderos con control atmosférico, así como en estanterías, cajones y mesas al aire libre. El lugar es cálido, húmedo y está iluminado por sombrías luces de crecimiento violetas. Estos "campos" son trabajados principalmente por niños, supervisados por un esclavo especialista.
+
+Hábitats de Población (x3)
+Promedio de 3 piratas, 8 civiles cada uno. Varias de estas áreas existen en toda la base, conteniendo gimnasios, nichos para dormir tipo ataúd (con camas individuales y dobles), y baños, todo rodeando una cocina-comedor comunal. Un cuarto hábitat de población se utiliza como enfermería (que también alberga al personal).
+
+Hábitat de Detención
+5 piratas, 23 civiles. Similar a los hábitats de población, excepto que alberga a cautivos poco cooperativos. Los prisioneros se mantienen desnutridos y débiles, pero tienen libre acceso al hábitat excepto a la sala de gimnasio, que ha sido vaciada y convertida en una celda de aislamiento. La puerta solo se puede abrir desde el exterior y los piratas aquí son guardias alertas que usan escudos electrónicos en todo momento.
+
+Sala de Máquinas
+2 piratas, 2 civiles. Ubicada en lo profundo del asteroide, esta cámara abovedada contiene dos grandes generadores de fusión que suministran energía a toda la base, así como sistemas de recuperación de residuos y fontanería. La sala es muy caliente y la condensación de agua gotea y se acumula en cada superficie. En una esquina de la sala hay una gran cuba de acero cerámico llena de gusanos que compostan activamente los desechos biológicos. Desde aquí, un técnico podría encender/apagar la energía de cualquier sitio o pasillo del que conozca el número de ubicación (impreso en cada marco de puerta).
+
+Centro de Vida
+2 piratas, 2 civiles. La puerta está cerrada y solo los piratas conocen el código (requiriendo tiradas de Intrusion para eludirlo). La sala está iluminada por filas de monitores y luces parpadeantes. Varias filas de máquinas pensantes TL4 robustas y construidas para durar operan el soporte vital de la base, el aire, la presión, las luces, la gravedad artificial y la temperatura desde aquí, todo lo cual los miembros de la compañía pueden manipular de manera similar a la energía en la Sala de Máquinas. Apagar el aire de una habitación cerrada hará que los habitantes pierdan el conocimiento en ½ a 5 horas, dependiendo del tamaño de la habitación y el número de habitantes. Puede que ni siquiera se den cuenta de lo que está sucediendo.
+
+Centro de Comunicaciones
+2 piratas, 0 civiles. Esta pequeña sala es los ojos y oídos de Villa Celestia, conteniendo una única máquina pensante que controla los intercomunicadores de la base, las radios espaciales, los sensores y las comunicaciones de superficie a nave. Si las comunicaciones se interrumpen, los piratas (y la compañía) aún pueden usar los altavoces, pero la señal podría fluctuar o desaparecer por completo, especialmente en lo profundo de la base altamente aislada y blindada. Sin embargo, la comunicación con el mundo exterior es imposible (pero ver Defensas de la Base a continuación).
+
+Defensas de la Base
+5 piratas, 6 civiles. Desde aquí se gestiona la seguridad interna de la base y la defensa espacial. Escudos, baterías de cañones, puertas, comunicaciones de punto a punto de emergencia, y comunicaciones de haz infrarrojo de base a nave, todo se opera (y se puede sabotear) desde aquí. Este es un objetivo de alta prioridad y los Killroys esperan que la compañía pueda tomarlo rápidamente para ayudar en sus esfuerzos de batalla espacial.
+
+Cuartel General (HQ)
+8 piratas, Barabbash, 5 civiles. Parte puente de nave espacial y parte lujoso salón, el HQ es donde Barabbash tiene su corte y desde donde se dirige Villa Celestia, y de hecho, el Colectivo Melena Sangrienta. Los tesoros se amontonan por la sala y sirvientes escasamente vestidos atienden a los piratas. Una docena de pantallas de computadora, una de cinco metros de ancho, informa al HQ sobre todo lo que sucede en y sobre la base. En la actualidad, muestra imágenes en vivo de la batalla espacial sobre Villa Celestia, alternando entre cámaras de superficie, cámaras de nave y varios gráficos y estadísticas generados por máquinas pensantes. Cualquier función de la base puede ser anulada temporalmente desde aquí, pero solo una a la vez, exigiendo la atención completa de un solo técnico.
+
+Los aposentos privados de Barabbash, lujosos y bien abastecidos con suministros de emergencia y lujos, se encuentran adyacentes al HQ, y están prohibidos para todos excepto para él. Aquí, los hermanos Barabbash viven y coordinan sus actividades, manteniendo la farsa para todos excepto para un puñado de los piratas más confiables. Además, los hermanos Barabbash pueden acceder a ciertos pasadizos secretos en toda la base desde aquí, permitiéndoles ir y venir sin ser vistos (para mantener la coartada). Los miembros de la compañía que husmeen por aquí pronto encontrarán evidencia de que hay más de un Barabbash en el Colectivo Melena Sangrienta (aunque solo uno está presente en este momento).
+
+![Mapa de Villa Celestia](/public/villa_celestia_map.png)
+
+### Bloqueando el Acceso
+
+El asteroide está lleno de caminos, pasillos y cruces. Sin embargo, al tomar el control de dos o tres túneles clave, la compañía (¡o los piratas!) pueden bloquear la entrada a cualquier habitación o instalación de la base, permitiéndoles acorralar enemigos o cortar el acceso. (Esto no bloquea el acceso a través de los pasadizos secretos, sin embargo).
+
+### Batalla Espacial
+
+Los Killroys están listos para atacar tan pronto como la compañía solicite apoyo, señale que todo está despejado, o si los ansiosos Killroys simplemente deciden que es hora de atacar. No se le dará atención especial a la batalla espacial aquí, y debes asumir que la lucha se prolonga sin que ningún bando obtenga ventaja hasta que la compañía cambie el rumbo al capturar Villa Celestia o secciones significativas de ella. Por supuesto, los jugadores que piensen en formas ingeniosas de fortalecer su bando deberían ser recompensados inclinando la batalla espacial a su favor.
+
+Las baterías de cañones de Villa Celestia, al estar ancladas al asteroide, defienden principalmente la aproximación directa a la base y son de uso limitado en una batalla alrededor de todo el asteroide.
+
+### Alarma
+
+Una vez que la compañía sigilosa es finalmente descubierta y la alarma suena, ocurren varias cosas sucesivamente. Cada evento puede desencadenar un encuentro. Ignora, añade o altera los eventos según las actividades de la compañía:
+
+Las naves piratas que orbitan Villa Celestia activan sus puestos de combate, enfrentándose a las naves Killroy tan pronto como aparecen.
+
+Si se les permite (es decir, el acceso al hangar no está bloqueado), todas las naves estelares aptas para el espacio en el hangar son tripuladas rápidamente y entran en batalla, posiblemente dejando a la compañía sin una nave de escape. (Si la mayoría de las naves despegan, resta -1 pirata de los grupos que la compañía encuentre en la base).
+
+Los civiles rezagados son conducidos a los hábitats de población mientras los piratas se unen para defender la base.
+
+Villa Celestia es puesta en bloqueo total. A menos que la compañía haya convencido a los exploradores reacios en la Escena 12 (y recibido todos los códigos de acceso), las puertas ahora estarán bloqueadas para ellos.
+
+Un equipo de asalto pirata localiza y ataca a los PJ. Del mismo número que la compañía, luchan con cautela y se retiran si las cosas se ponen mal.
+
+Habiendo encontrado una oposición significativa, los piratas apagan las luces, dejando la base en una oscuridad casi total. Los piratas con gafas de visión nocturna forman partidas de caza. Otros piratas se reagrupan para defender puntos y ubicaciones clave. Como antes, la compañía encuentra hostiles del mismo tamaño que su(s) propio(s) grupo(s).
+
+Abudjinn comienza a merodear, usando la oscuridad y su visión oculta a su favor, así como los pasadizos secretos que le permiten superar a la compañía. Busca al PJ con aspecto más rudo para atacar en combate cuerpo a cuerpo.
+
+A medida que los intrusos avanzan a pesar de los esfuerzos piratas, Barabbash abandona el Cuartel General con guardaespaldas para enfrentarse a la compañía en una batalla personal. Las luces se encienden para esta lucha, pero la gravedad artificial se desactiva.
+
+Si Barabbash resulta gravemente herido o sus piratas sufren grandes bajas, pedirá un alto el fuego. Ofrece abandonar Villa Celestia y su flotilla, liberar a sus cautivos y disolver a todos los piratas no libres. A cambio, exige paso seguro a la compuerta de salto a bordo de una nave adecuada (la nave de combate Inquisitor si es posible) para él y su tripulación principal. Si bien esto reduciría enormemente las bajas y permitiría a muchas víctimas de la piratería recuperar parte de sus pérdidas del botín y los bienes incautados, los Killroys, preocupados por la futura piratería y las jumpkeys deshonestas, necesitarán ser convencidos para aceptarlo. (E incluso si ceden, los Killroys podrían atacar obstinadamente a la nave pirata en retirada de todos modos, arriesgando la aniquilación de ambas facciones). Alternativamente, si la posición negociadora de Barabbash es débil, ofrecerá regresar a Criticorum para ser juzgado allí (donde la presión familiar asegurará un veredicto leve). Sin embargo, si se ve obligado, Barabbash liderará a sus piratas en una batalla suicida de destrucción mutua.
+
+### DRAMATIS PERSONAE
+
+SULTÁN BARABBASH BLOODMANE, ALIAS "GRAN INQUISIDOR VINDEX"
+Titular • Noble 6 • Colectivo Melena Sangrienta (ex-al-Malik) • Pirata/Señor
+
+Descripción: Piel y ojos negros, su barba y cabello, habitualmente teñidos de rojo con henna, están actualmente afeitados para ajustarse al disfraz de Vindex. Un hombre alto y corpulento de unos 60 años, Barabbash impone una figura poderosa a pesar de su edad. Viste un mono de seda sintética de color verde oscuro, con el logo del equipo de kabaddi "Green Krakens 3821" de Acheon grabado en la espalda, bajo pesadas túnicas escarlata de Inquisidor.
+
+Identidad secreta: Gran Inquisidor Vindex, la Espada de la Fe, un cazador de herejes que recorre el borde de los Mundos Conocidos con su séquito Avestite. (El verdadero Vindex y sus fanáticos fueron lanzados al espacio cerca de Aesir).
+
+Pista: Vindex es conocido por ser un asceta estricto y vegetariano, pero Barabbash no emula esto. Los grupos que investiguen la reputación y el carácter del Gran Inquisidor se darán cuenta. Además, Barabbash luce una tosca prótesis cibernética de mano que oculta con vendas gruesas. Y por último, sus hombres pueden olvidarse y llamarle "Sultán".
+
+Características:
+
+Fuerza (Str) 7
+
+Sabiduría (Wis) 4
+
+Presencia (Pre) 7
+
+Destreza (Dex) 6
+
+Percepción (Per) 4
+
+Inteligencia (Int) 5
+
+Aguante (End) 7
+
+Voluntad (Will) 6
+
+Fe (Faith) 3
+
+Habilidades:
+
+Luchar (Fight) 9
+
+Imponer (Impress) 7
+
+Pillería (Knavery) 4
+
+Cuerpo a cuerpo (Melee) 6
+
+Observar (Observe) 5
+
+Disparar (Shoot) 6
+
+Vigor (Vigor) 8
+
+Acciones:
+
+Mando (Command) 14 (Impacto en Objetivo: Comandado)
+
+Intimidar (Daunt) 14 (Impacto en Objetivo: Intimidado)
+
+Sacudírselo (Shake it off) 13 | 12 | 9 (Elimina un estado)
+
+Disparar pistola láser (Shoot laser pistol) 13 (5 de daño, Láser)
+
+Estrangular (Strangle) 16 (1 de daño + Inmovilizado)
+
+Golpe de espada (Sword strike) 13 (6 de daño)
+
+Capacidades: Saber (Criticorum, Red de Saltos, Hargard), Armas cuerpo a cuerpo (Militares), Armas a distancia (Armas de energía), Operaciones espaciales.
+
+Ventajas: Armado hasta los dientes, Nacido en el campo de batalla, Fama/Infamia (Colectivo Melena Sangrienta/Viajeros espaciales del sistema Hargard), Red de chismorreos, Imperioso, Título noble (Caballero).
+
+Resistencia: Cuerpo 4 | Mente 2 | Espíritu 2
+Escudo electrónico (estándar): 5/10 (10 impactos)
+Vitalidad: 27
+Reanimaciones: rating: 11 | número: 2
+Banco: 20
+Oleadas (Surges): rating: 13 | número: 2
+
+Equipo: Traje de seda sintética, escudo electrónico, túnicas ignífugas Avestite (descartadas después de Ruthwyck), pistola láser (4 celdas de fusión), espada, 100 firebirds.
+
+![Barabbash](/public/sultan_barabbash.png)
+
+ABUDJINN AL-MALIK, ALIAS “HERMANO CASTITES”
+Agente • Peón 5 • Colectivo Melena Sangrienta • Pirata
+
+Descripción: Abudjinn es un hombre alto y delgado de tez aceitunada, con ojos oscuros que brillan extrañamente con una luz verdosa amarillenta. Abudjinn luce una sonrisa astuta y se ríe con facilidad de la desgracia ajena. Viste túnicas Avestite sobre un mono de seda sintética idéntico al de Barabbash y lleva varias pistolas y un estoque con guardamano de cesta. Un letrero lacado, que reza sileo (latín eclesiástico para "Soy silencioso") en letras doradas, cuelga alrededor de su cuello.
+
+Identidad Secreta: Hermano Castites, el fanático asistente de Vindex.
+
+Pista: Abudjinn solo cumple a medias el voto de silencio de Castites y frecuentemente se ríe a carcajadas o susurra al oído de "Vindex". Además, sus extraños ojos parecen fuera de lugar para un inquisidor.
+
+Características:
+
+Fuerza (Str) 5
+
+Sabiduría (Wis) 4
+
+Presencia (Pre) 6
+
+Destreza (Dex) 8
+
+Percepción (Per) 6
+
+Inteligencia (Int) 5
+
+Aguante (End) 6
+
+Voluntad (Will) 5
+
+Fe (Faith) 3
+
+Psi 3 / Impulso (Urge) 2
+
+Habilidades:
+
+Luchar (Fight) 4
+
+Concentración (Focus) 6
+
+Intrusión (Intrusion) 6
+
+Pillería (Knavery) 5
+
+Cuerpo a cuerpo (Melee) 5
+
+Observar (Observe) 6
+
+Disparar (Shoot) 8
+
+Sigilo (Sneak) 4
+
+Vigor (Vigor) 5
+
+Acciones:
+
+Premonición (Premonition) 12 (Impacto en Objetivo: Ventaja de iniciativa superior y coste de defensa reducido: +2 Resistencia de Cuerpo o Espíritu por cada 1 PV gastado.)
+
+Golpe de estoque (Rapier strike) 10 (5 de daño (+1 Resistencia de Cuerpo contra ataques cuerpo a cuerpo))
+
+Sacudírselo (Shake it off) 12 | 11 | 9 (Elimina un estado.)
+
+Moldear Sentidos (Shape Senses) 12 (Elige 1 sentido: ignora impedimentos.)
+
+Disparar lanzallamas (Shoot flamegun) 18 (5(3) de daño (Llama))
+
+Disparar pistola láser (Shoot laser pistol) 17 (5 de daño (Láser))
+
+Disparar arma de proyectiles (Shoot slug gun) 16 (6 de daño)
+
+Merodear (Skulk) 12 (Resistencia contra detección = 4, +1 por cada 2 PV)
+
+Capacidades: Saber (Criticorum, Hargard), Armas cuerpo a cuerpo (Militares), Reputación profesional (Experto), Armas a distancia (Armas de energía), Operaciones a bordo.
+
+Ventajas: Ambidiestro, Nacido en el campo de batalla, Independiente, Lucha con dos armas.
+
+Poderes psíquicos: Sexto Sentido (Sentidos Agudos, Visión Sutil, Premonición).
+
+Estigma: Los ojos brillantes de Abudjinn se encienden como grandes luciérnagas cuando usa Psi.
+
+Resistencia: Cuerpo 4 | Mente 6 | Espíritu 0
+Escudo electrónico (estándar): 5/10 (10 impactos)
+Vitalidad: 15
+Oleadas (Surges): rating: 11 | número: 2
+
+Equipo: Traje de seda sintética, escudo electrónico, túnicas ignífugas Avestite, lanzallamas (descartado después de Ruthwyck), pistola láser (2 celdas de fusión), 3 cargadores automáticos Sumpter Urthquake (2 cargadores de munición cada uno), estoque con guardamano de cesta, 50 firebirds.
+
+![Abudjinn](/public/ABUDJINN%20AL-MALIK.png)
+
+Piratas del Colectivo Melena Sangrienta, alias "Guardias Inquisitoriales"
+Extras
+
+Descripción: Hombres y mujeres de aspecto duro, delgados y demacrados por la difícil vida de pirata espacial. La mitad son antiguos corsarios de al-Malik, el resto son yeomen y asaltantes Vuldrok. Mientras están en Ruthwyck, actúan tan piadosamente como pueden —cabezas afeitadas o peinadas hacia atrás, semblantes sombríos— y visten túnicas Avestite de color rojo oscuro sobre una mezcla ecléctica de monos de vuelo, overoles, ropa de trabajo y piezas de armadura ligera.
+
+Los piratas suman 48 en total, pero solo 12 han acompañado a "Vindex" en la misión "Inquisitorial", mientras que 36 permanecen en Villa Celestia.
+
+Identidad secreta: Guardaespaldas Avestite.
+
+Pista: Con solo siete túnicas Avestite disponibles, al menos cinco piratas permanecen en la nave de combate en todo momento. Los miembros observadores de la compañía podrían notar que las túnicas individuales son usadas por diferentes "Avestites" a medida que los piratas rotan quién sale al exterior. Además, son ascetas reacios y a muchos les cuesta mantener el personaje, especialmente cuando hay bebidas disponibles. También, muchos sufren quemaduras como si hubieran sido golpeados recientemente por lanzallamas Avestite.
+
+Acciones:
+
+Golpe de hacha: 10 (7 de daño)
+
+Disparar lanzallamas: 14 (5(3) de daño, Llama)
+
+Disparar pistola láser: 13 (5 de daño, Láser)
+
+Disparar subfusil: 12 (5 de daño, Culata)
+
+Disparar revólver Vuldrok: 12 (5 de daño, Inestable)
+
+Disparar escopeta Vuldrok: 13/12/11 (8/4/1 de daño, Culata)
+
+Persecución/escape en nave estelar: 9 (Solo unos pocos especialistas selectos pueden realizar esta acción).
+
+Resistencia: Cuerpo 6 | Mente 0 | Espíritu 0
+Vitalidad: 10
+
+Equipo: Cota de malla de plástico, espada, la mitad están armados con una pistola láser y un subfusil, mientras que la otra mitad están armados con un revólver y una escopeta Vuldrok (2 cargadores de munición por arma). Mientras están encubiertos, siete llevan lanzallamas y túnicas Avestite ignífugas en su lugar. Unos pocos firebirds cada uno.
+
+![Colectivo pirata](/public/colectivo_pirata.png)
+
+# Consecuencias
+
+Dependiendo de cómo se desarrollen los acontecimientos, la compañía podría ganar aliados en varias comunidades y facciones durante este drama. A menos que hayan incumplido contratos o se hayan portado mal de alguna otra manera, también recibirán el pago prometido, y posiblemente más. Pase lo que pase, su reputación se extenderá rápidamente, para bien o para mal.
+
+Finalmente, como giro argumental, la compañía podría descubrir el secreto de Barabbash: que en realidad es un par de hermanos gemelos (o incluso trillizos) interpretando el mismo papel, y cómo crearon cuidadosamente el mito de su omnipresencia con operaciones coordinadas. Y quién sabe, podría haber otro Barabbash por ahí, tramando venganza...

@@ -1,5 +1,15 @@
 ---
+import "./global.css";
+import Header from "../components/header.astro";
 
+const campaigns = [
+  {
+    title: "Farsantes y Ladrones",
+    game: "Fading Suns",
+    url: "/campaña/farsantes-y-ladrones",
+    description: "Una campaña para Fading Suns",
+  }
+]
 ---
 
 <html lang="en">
@@ -11,8 +21,14 @@
 		<title>Dramas Fading Suns</title>
 	</head>
 	<body>
+    <Header />
+
     <ul>
-      <li><a href="/dramas/farsantes-y-ladrones">Farsantes y Ladrones</a></li>
+      {
+        campaigns.map((campaign) => (
+          <li><a href={campaign.url}>{campaign.title}</a></li>
+        ))
+      }
     </ul>
 	</body>
 </html>

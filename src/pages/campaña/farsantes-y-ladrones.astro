@@ -1,15 +1,19 @@
 ---
+import CampaignHeader from "../../components/campaign-header.astro";
 import MiDramaMarkdown from '../../content/farsantes-y-ladrones.md';
 ---
-<html lang="en">
+
+<html lang="es">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Dramas Fading Suns</title>
+		<title>Dramas de Rol en español</title>
 	</head>
 	<body>
+    <CampaignHeader title="Farsantes y Ladrones" game="Fading Suns" />
+
     <main>
       <MiDramaMarkdown />
     </main>
