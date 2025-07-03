@@ -1,1 +1,6 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+.title {
+  @apply mb-2 text-3xl font-bold;
+}
